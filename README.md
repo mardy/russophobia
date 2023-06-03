@@ -19,6 +19,15 @@ out as an example of solidarity and humanity for everybody affected by these
 terrible events.
 
 
+## Contributing
+
+If you know of companies which have either stood out in a positive way, or
+which have followed the mainstream russophobia, please open a pull request (if
+you are familiar with GitHub PR process) or just [file an
+issue](https://github.com/mardy/russophobia/issues/new) mentioning the company
+name and a link documenting their stance.
+
+
 ## List of russophobic companies
 
 Here is a list of companies and organisations who have decided to penalize
