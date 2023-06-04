@@ -72,5 +72,5 @@ Here's a list of websites and companies who have reacted in a noteworthy way.
 Site / Company | Announcement | Notes
 ---|---|---
 Flickr & SmugMug | [Statement image](https://flickr.com/photos/flickr/51937987646/in/datetaken/) | The invasion has been called “unlawful” (which every war is), but there's no political judgement; just good words of encouragement for everybody affected. Russian customers who have been unable to renew their subscriptions because of the financial block against Russia have been renewed for free at the company's expenses.
-Zorin OS | [Blog post](https://blog.zorin.com/2022/03/10/zorin-os-16-1-released-support-for-ukraine/) | Standing with all the affected people, no politics, no judgement. Donating money to the displaced families. Considering that the authors of ZOrin OS have Ukrainian origins, this is especially worth a praise.
+Zorin OS | [Blog post](https://blog.zorin.com/2022/03/10/zorin-os-16-1-released-support-for-ukraine/) | Standing with all the affected people, no politics, no judgement. Donating money to the displaced families. Considering that the authors of Zorin OS have Ukrainian origins, this is especially worth a praise.
 
