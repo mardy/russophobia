@@ -50,6 +50,7 @@ case.
 Company | Announcement | Notes
 ---|---|---
 Canonical | [Blog post](https://canonical.com/blog/canonical-standing-with-ukraine) | Stopping business with Russia
+Canva | [News post](https://www.canva.com/newsroom/news/exiting-russia/) | Blocking Russian users
 Disney | [Statement](https://thewaltdisneycompany.com/statement-from-the-walt-disney-company-in-response-to-the-crisis-in-ukraine/) | Suspending releases in Russia
 Docker | [Blog post](https://www.docker.com/blog/dockers-response-to-the-invasion-of-ukraine) | Stopping business with Russia
 Electronic Arts | [News post](https://www.ea.com/en-gb/news/update-on-electronic-arts-titles-in-russia-and-belarus) | Stopping sales to Russia and Belarus
