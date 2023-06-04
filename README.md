@@ -59,6 +59,7 @@ Microsoft | [Blog post](https://blogs.microsoft.com/on-the-issues/2022/03/04/mic
 Paypal | [Press release](https://newsroom.paypal-corp.com/2022-03-05-paypal-ceo-dan-schulman-message-ukraine) | Shutting down service in Russia
 RedHat | [Blog post](https://www.redhat.com/en/blog/red-hats-response-war-ukraine) | Stopping business with Russia
 SUSE | [Blog post](https://www.suse.com/c/standing-with-ukraine) | Stopping business with Russia
+The Linux Foundation | No official announcement | [Rejecting patches](https://lore.kernel.org/all/20230314103316.313e5f61@kernel.org/) from a Russian company. The Committee was asked to intervene, but [found nothing wrong with russophobia](https://www.opennet.ru/openforum/vsluhforumID3/129994.html#529)
 The Movie Database | [Blog post](https://blog.themoviedb.org/the-movie-database-suspends-access-from-russia-and-belarus-b6a1a96fb35b) | [Site](https://themoviedb.org) blocked.
 The Qt Company | No official announcement | [Forum thread](https://forum.qt.io/topic/134724/unlock-qt-in-russia); [downloads](https://download.qt.io) blocked, no business with Russia
 Visa | [Press release](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.18871.html) | Suspending business in Russia
