@@ -54,6 +54,7 @@ Canva | [News post](https://www.canva.com/newsroom/news/exiting-russia/) | Block
 Disney | [Statement](https://thewaltdisneycompany.com/statement-from-the-walt-disney-company-in-response-to-the-crisis-in-ukraine/) | Suspending releases in Russia
 Docker | [Blog post](https://www.docker.com/blog/dockers-response-to-the-invasion-of-ukraine) | Stopping business with Russia
 Electronic Arts | [News post](https://www.ea.com/en-gb/news/update-on-electronic-arts-titles-in-russia-and-belarus) | Stopping sales to Russia and Belarus
+GoG | [FOrum post](https://www.gog.com/forum/general/suspending_sales_in_russia_and_belarus_8f5a6) | Stopping sales to Russia and Belarus
 KDAB | No official announcement | Site has been made inaccessible from Russia
 Jolla | [LinkedIn post](https://www.linkedin.com/posts/samulisimojoki_putinin-hy%C3%B6kk%C3%A4ys-ukrainaan-pakottaa-meist%C3%A4-activity-6904001201180934144-lb4d/) | Stopping business with Russia
 Luxoft | [PR post](https://www.luxoft.com/pr/we-stand-united-with-ukraine) | Russian company closing all offices in Russia
